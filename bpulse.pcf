@@ -1,0 +1,2 @@
+set_io get_blink B6
+set_io CLK D1
